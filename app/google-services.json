@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890281569390",
+    "project_id": "loginregister-2631e",
+    "storage_bucket": "loginregister-2631e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890281569390:android:042d886cdf4e3f62e74a7f",
+        "android_client_info": {
+          "package_name": "com.armonyapp.armony.loginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890281569390-95477egpofi4cld49pqo7t1gk0g6akhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw8j8r9-mDVntJzcbcmkslLlvo0YyejhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890281569390-95477egpofi4cld49pqo7t1gk0g6akhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
